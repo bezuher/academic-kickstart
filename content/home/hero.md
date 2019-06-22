@@ -41,7 +41,7 @@ hero_media = "hero-academic.png"
 
 [cta_alt]
   url = "link"
-  label = "Глядзець рэкамендацыі"
+  label = "Summary in English"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
