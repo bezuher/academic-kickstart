@@ -14,7 +14,7 @@ role: Даследчык
 
 # Organizations/Affiliations
 organizations:
-- name: Універсітэт Уэстмінстэр
+- name: Універсітэт Уэстмінстэр, Лондан
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -61,9 +61,8 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Visitors
 ---
 
 Алесь Герасіменка - беларускі даследчык і журналіст. Ён вывучае як палітычныя арганізацыі змяняюцца ў выніку распаўсюду лічбавых тэхналогій.
