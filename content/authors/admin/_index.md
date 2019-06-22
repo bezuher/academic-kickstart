@@ -14,16 +14,11 @@ role: Даследчык
 
 # Organizations/Affiliations
 organizations:
-- name: Універсітэце Уэстмінстэр
+- name: Універсітэт Уэстмінстэр
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-Гэтыя ідэі актуальныя для:
-- Любога, хто ўцягнуты ў грамадзкі актывізм
-- Журналістаў
-- Даследчыкаў
+bio: Aliaksandr Herasimenka.
 
 #education:
 #  courses:
@@ -36,6 +31,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 #  - course: BSc in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2008
+Гэтыя ідэі актуальныя для:
+- Любога, хто ўцягнуты ў грамадзкі актывізм
+- Журналістаў
+- Даследчыкаў
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
