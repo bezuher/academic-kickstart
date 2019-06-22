@@ -14,7 +14,7 @@
   weight = 20
 
 [[main]]
-  name = "Іншыя публікацыі"
+  name = "Публікацыі"
   url = "#posts"
   weight = 25
 
