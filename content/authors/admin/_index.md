@@ -31,7 +31,7 @@ bio: Aliaksandr Herasimenka.
 #  - course: BSc in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2008
-Гэтыя ідэі актуальныя для:
+#Мае ідэі актуальныя для:
 - Любога, хто ўцягнуты ў грамадзкі актывізм
 - Журналістаў
 - Даследчыкаў
