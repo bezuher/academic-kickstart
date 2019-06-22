@@ -1,12 +1,12 @@
 ---
 title: Чым апошняя хваля пратэстаў у Беларусі розніцца ад ранейшых
 
-summary: Here we describe how to add a page to your site.
+summary: У мінулым месяцы беларусы здолелі моцна здзівіць саміх сябе. Тысячы людзей выйшлі на цэнтральныя плошчы і вуліцы сваіх гарадоў. Такіх шырокіх пратэстаў мы не бачылі шмат гадоў, што робіць цяперашнюю сітуацыю ўнікальнай. Што здарылася з намі і як раптам мы ператварыліся ў палітычна актыўную нацыю?
 date: "2019-06-22T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
-profile: false  # Show author profile?
+profile: true  # Show author profile?
 comments: false  # Show comments?
 
 # Optional header image (relative to `static/img/` folder).
