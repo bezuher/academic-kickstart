@@ -41,7 +41,6 @@ hero_media = "hero-academic.png"
   icon_pack = "fas"
   icon = "download"
   padding = ["40px", "0", "40px", "0"]
-columns = "2"
 
 
 [cta_alt]
@@ -57,4 +56,4 @@ columns = "2"
 
 Ты можаш **змяніць** сваю краіну
 
-{{< youtube kCQZlDPh9ec >}}
+#{{< youtube kCQZlDPh9ec >}}
