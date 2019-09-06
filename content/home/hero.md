@@ -45,16 +45,15 @@ hero_media = "hero-academic.png"
 
 [cta_alt]
   url = "https://www.youtube.com/watch?v=kCQZlDPh9ec&fbclid=IwAR1tRVU7jWSXwIPzuHkaCjjZkEKYwC8EyZPuThz5EFlIDwN_xWDfez4xGLA"
-  label = "Відэа прэзентацыі ў Мінску"
+  label = "Відэа з прэзентацыі ідэй"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
 
 +++
 
-**Як самаарганізавацца ў лічбавыя часы?**
-
-Ты можаш **змяніць** сваю краіну
+**Як самаарганізавацца ў лічбавыя часы?** 
+Як **абараніць** сябе, калі ты актывіст?
 
 **паглядзі** відэа: {{< youtube kCQZlDPh9ec >}}
 
