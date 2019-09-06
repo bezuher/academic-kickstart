@@ -9,7 +9,7 @@ title = "ідэі для актывістаў"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "hero-academic.png"
-{{< youtube kCQZlDPh9ec >}}
+
 
 
 [design.background]
@@ -40,6 +40,8 @@ hero_media = "hero-academic.png"
   label = "Даведацца ідэі для актывістаў"
   icon_pack = "fas"
   icon = "download"
+  padding = ["40px", "0", "40px", "0"]
+
 
 
 [cta_alt]
@@ -55,3 +57,4 @@ hero_media = "hero-academic.png"
 
 Ты можаш **змяніць** сваю краіну
 
+{{< youtube kCQZlDPh9ec >}}
