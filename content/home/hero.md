@@ -34,14 +34,14 @@ hero_media = "hero-academic.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "link"
+  url = "publication/Policybrief.pdf"
   label = "Даведацца ідэі для актывістаў"
   icon_pack = "fas"
   icon = "download"
 
-[cta_alt]
-  url = "link"
-  label = "Summary in English"
+#[cta_alt]
+  url = "https://www.youtube.com/watch?v=kCQZlDPh9ec&fbclid=IwAR1tRVU7jWSXwIPzuHkaCjjZkEKYwC8EyZPuThz5EFlIDwN_xWDfez4xGLA"
+  label = "Відэа прэзентацыі ў Мінску"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
