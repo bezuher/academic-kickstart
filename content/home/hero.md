@@ -45,7 +45,7 @@ hero_media = "hero-academic.png"
 
 [cta_alt]
   url = "https://www.youtube.com/watch?v=kCQZlDPh9ec&fbclid=IwAR1tRVU7jWSXwIPzuHkaCjjZkEKYwC8EyZPuThz5EFlIDwN_xWDfez4xGLA"
-  label = "Відэа прэзентацыі ў Мінску"
+  label = "{{<p>}}Відэа прэзентацыі ў Мінску"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
@@ -56,4 +56,6 @@ hero_media = "hero-academic.png"
 
 Ты можаш **змяніць** сваю краіну
 
-#{{< youtube kCQZlDPh9ec >}}
+**паглядзі** відэа: {{< youtube kCQZlDPh9ec >}}
+
+альбо **спампуй** ідэі тут:
