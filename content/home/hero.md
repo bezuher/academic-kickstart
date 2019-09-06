@@ -39,7 +39,7 @@ hero_media = "hero-academic.png"
   icon_pack = "fas"
   icon = "download"
 
-#[cta_alt]
+[cta_alt]
   url = "https://www.youtube.com/watch?v=kCQZlDPh9ec&fbclid=IwAR1tRVU7jWSXwIPzuHkaCjjZkEKYwC8EyZPuThz5EFlIDwN_xWDfez4xGLA"
   label = "Відэа прэзентацыі ў Мінску"
 
