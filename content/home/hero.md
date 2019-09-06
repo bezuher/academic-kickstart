@@ -9,6 +9,8 @@ title = "ідэі для актывістаў"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "hero-academic.png"
+{{< youtube kCQZlDPh9ec >}}
+
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -53,4 +55,3 @@ hero_media = "hero-academic.png"
 
 Ты можаш **змяніць** сваю краіну
 
-{{< youtube kCQZlDPh9ec >}}
