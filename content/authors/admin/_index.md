@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Алесь Герасіменка
+name: Dr Aliaksandr Herasimenka
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Даследчык
+role: Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Універсітэт Уэстмінстэр, Лондан
-  url: ""
+- name: University of Oxford
+  url: "https://www.oii.ox.ac.uk/people/aliaksandr-herasimenka/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Aliaksandr Herasimenka.
@@ -31,10 +31,6 @@ bio: Aliaksandr Herasimenka.
 #  - course: BSc in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2008
-Мае ідэі актуальныя для:
-- Любога, хто ўцягнуты ў грамадзкі актывізм
-- Журналістаў
-- Даследчыкаў
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -65,4 +61,4 @@ email: ""
 #- Visitors
 ---
 
-Алесь Герасіменка - беларускі даследчык і журналіст. Ён вывучае як палітычныя арганізацыі змяняюцца ў выніку распаўсюду лічбавых тэхналогій.
+Dr Aliaksandr Herasimenka is a researcher of disinformation and political communication in authoritarian countries. 
